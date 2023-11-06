@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lauralobo21&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 **lauralobo21/lauralobo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
