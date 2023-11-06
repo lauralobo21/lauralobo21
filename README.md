@@ -1,6 +1,5 @@
 <h1>Hi There! 👋</h1>
 
-## My name is Laura Lobo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lauralobo21&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 - 🎓 Computer Science Student
 - 💡 Beginner in this world!
