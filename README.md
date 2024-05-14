@@ -7,7 +7,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+[![Gmail](https://img.shields.io/badge/gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lauralobo364@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/lauralobo364@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lauralobo364@gmail.com)](mailto:lauralobo364@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-lobo-369563232/)
 
 </p>
